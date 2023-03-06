@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T23:13:25.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="rKoCUQW_X10gnIQONSLe" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T23:42:42.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="EUcE1dj1MN9cAwP4GqVL" version="21.0.2" type="github">
   <diagram name="Página-1" id="a1faXjNZlfiCvSNM4bt3">
     <mxGraphModel dx="926" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="skPY0FQdnluBgHhVNIFi-66" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Review the instructor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="840" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="skPY0FQdnluBgHhVNIFi-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Update student account&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="skPY0FQdnluBgHhVNIFi-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Update student password&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="880" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="skPY0FQdnluBgHhVNIFi-73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
