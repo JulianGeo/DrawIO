@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T13:25:14.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="L6m9uojfHhhb-Q7sDxZU" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T15:42:12.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="M54fwRcQ2-KY0TgTDaiO" version="21.0.2" type="github">
   <diagram name="Página-1" id="a1faXjNZlfiCvSNM4bt3">
-    <mxGraphModel dx="805" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,10 +64,10 @@
         <mxCell id="skPY0FQdnluBgHhVNIFi-23" value="Sales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="skPY0FQdnluBgHhVNIFi-26" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Enrolling app&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="skPY0FQdnluBgHhVNIFi-26" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Enrolling app&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="90" width="70" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="skPY0FQdnluBgHhVNIFi-28" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Courses managment app&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="skPY0FQdnluBgHhVNIFi-28" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Courses managment app&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="175" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="skPY0FQdnluBgHhVNIFi-30" value="&lt;font size=&quot;1&quot;&gt;Student&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
@@ -159,7 +159,7 @@
         <mxCell id="skPY0FQdnluBgHhVNIFi-74" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="535" width="237.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lx_b4VlAUpo4bGKFRH-j-1" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Main Information system&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Lx_b4VlAUpo4bGKFRH-j-1" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Main Information system&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="367.5" y="130" width="75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dJS6j4mIOpEjozjRQb9q-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Receive a comment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -209,6 +209,24 @@
         </mxCell>
         <mxCell id="dJS6j4mIOpEjozjRQb9q-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Receive an enroll&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="195" y="840" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJS6j4mIOpEjozjRQb9q-17" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;lt;&amp;lt;Support&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJS6j4mIOpEjozjRQb9q-19" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;lt;&amp;lt;Core&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJS6j4mIOpEjozjRQb9q-20" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;lt;&amp;lt;Support&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJS6j4mIOpEjozjRQb9q-21" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;lt;&amp;lt;Support&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="117.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJS6j4mIOpEjozjRQb9q-22" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;lt;&amp;lt;Support&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJS6j4mIOpEjozjRQb9q-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;[AR] Student&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;StudentID&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Account&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;PersonalInformation&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Plan&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;List&amp;lt;CourseID&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;assignSalesman()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;assignClient()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;addItem()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;setSaleDate()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;setStatus()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="410" width="130" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
